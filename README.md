@@ -1,11 +1,11 @@
-<h1>Hello, I'm Victor! <br/><a href="https://github.com/Motivated2Learn">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/vboydv/">Aspiring GRC Analyst</a>, <a href="https://www.feldentertainment.com/company/">Creative Services Project Manager</a>
+<h1>Hello, I'm Victor! <br/><a href="https://github.com/Motivated2Learn">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/vboydv/">Aspiring GRC Analyst</a>, <a href="https://www.feldentertainment.com/company/">Current Project Manager</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
 <h2>📜 Certifications:</h2>
 
-<a href="https://www.credly.com/badges/805a1ac9-197f-44fe-b8e0-253a66fd658a/public_url">Google Cybersecruity Certificate</a>
+<a href="https://www.credly.com/badges/805a1ac9-197f-44fe-b8e0-253a66fd658a/public_url">Google Cybersecurity Certificate</a>
 
 <h2> 🤳 Connect with me:</h2>
 
