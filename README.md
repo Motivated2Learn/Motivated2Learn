@@ -3,6 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 
+<h2>📜 Certifications:</h2>
+
+<a href="https://www.credly.com/badges/805a1ac9-197f-44fe-b8e0-253a66fd658a/public_url">Google Cybersecruity Certificate</a>
+
 <h2> 🤳 Connect with me:</h2>
 
 
