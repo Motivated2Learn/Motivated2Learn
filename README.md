@@ -1,4 +1,4 @@
-<h1>Hello, I'm Victor! <br/><a href="https://github.com/Motivated2Learn">Cybersecruity Professional</a>, <a href="https://www.linkedin.com/in/vboydv/">Aspiring GRC Analyst</a>, 
+<h1>Hello, I'm Victor! <br/><a href="https://github.com/Motivated2Learn">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/vboydv/">Aspiring GRC Analyst</a>, <a href="https://www.feldentertainment.com/company/">Creative Services Project Manager</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
